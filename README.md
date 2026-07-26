@@ -1,7 +1,7 @@
 # Repositório contendo as camadas utilizadas nas análises
 
 ## elevation
-[Elevation data](Elevation) is from the SRTM elevation data. WorldClim2.1. 30 s. https://www.worldclim.org/data/worldclim21.html Accessed 25 Jul 2026
+[Elevation data 30 s](Elevation) is from the SRTM elevation data. WorldClim2.1. https://www.worldclim.org/data/worldclim21.html Accessed 25 Jul 2026
 
 ## Bioclimatic variables 10 m
 [19 bioclimaric variables 10 m](Bioclim%20variables%2010m). WorldClim2. https://www.worldclim.org/data/worldclim21.html Accessed 25 Jul 2026
