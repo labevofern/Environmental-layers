@@ -24,6 +24,9 @@ In case you want to push a large file, just follow the normal workflow:
 
 ```
 git pull
+git lfs install
+git lfs track "*.tif"
+git add .gitattributes
 git add .
 git commit # using -m as a detailed commit message
 git push origin main
