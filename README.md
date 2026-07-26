@@ -29,4 +29,4 @@ git commit # using -m as a detailed commit message
 git push origin main
 ```
 
-Git LFS helps to pull and push large files (>400 Mb & <2Gb)
+Git LFS helps to pull and push large files (>100 Mb & <2Gb)
