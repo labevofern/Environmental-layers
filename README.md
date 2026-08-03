@@ -10,11 +10,12 @@
 [19 bioclimaric variables 30 s](Bioclim%20variables%2030%20s). WorldClim2. https://www.worldclim.org/data/worldclim21.html Accessed 26 Jul 2026
 
 ## Net Primary Production (NPP) for 2000 - 2015 30s
-MODIS MOD17 annual/30-arcsec [Net Primary Production (NPP)](MOD17A3_Science_NPP_mean_00_15.tif) for 2000 - 2015 in a convenient GIS-friendly GeoTIFF format.  
-Please see http://www.ntsg.umt.edu/project/mod17 for an overview of the MOD17 
+MODIS MOD17 annual/30-arcsec [Net Primary Production (NPP)](Net%20primary%20production%2030%20s) for 2000 - 2015 in a convenient GIS-friendly GeoTIFF format. Please see http://www.ntsg.umt.edu/project/mod17 for an overview of the MOD17 
 model and data product.
 
-Raster [MOD17A3_Science_NPP_mean_00_15.tif](MOD17A3_Science_NPP_mean_00_15.tif)
+## Cloud layers
+### Cloud forest prediction
+[Cloud forest prediction 30 s](Cloud%20layers/Cloud%20forest%20prediction). EarthEnv. https://www.earthenv.org/cloud Accessed 03 Aug 2026
 
 ---
 ## Install Git LFS (case you run git pull or git push)
